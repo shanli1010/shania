@@ -13,6 +13,25 @@ body, html{
   text-align: center;
 }
 
+.button {
+  height: 30px;
+  width: 80px;
+  border-radius: 22px;
+  background: #6D29A5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2em;
+  padding: 8px;
+  border: 1px solid white;
+  color: white;
+}
+
+.button:hover {
+  background-clip: content-box;
+}
+
+
 p{
   display: flex;
   margin-left: 200px;
