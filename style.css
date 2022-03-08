@@ -18,14 +18,15 @@ p{
   font-family: "Helvetica Neue", "Arial", sans-serif;
   font-style: italic;
   font-weight: 100;
-  font-size: 1rem;
+  font-size: 3rem;
   align-items: center;
+  color: white;
 }
 
 hr {
   height: 7px;
   border-width: 0;
-  color = white;
+  color: white;
   width: 50px;
   margin-left: 0;
 }
@@ -44,7 +45,7 @@ h1{
     color : #FFFFFF
 }
 
-hr {
+/* hr {
   display: block;
   margin-before: 0.5em;
   margin-after: 0.5em;
@@ -53,7 +54,7 @@ hr {
   overflow: hidden;
   border-style: inset;
   border-width: 1px;
-}
+} */
 
 hr {
   width: 60%;
