@@ -45,3 +45,16 @@ hr {
   margin-left: 0;
   margin-right: auto;
 }
+
+
+#left{
+  text-align: left;
+}
+
+#center{
+  text-align: center;
+}
+
+#right{
+  text-align: right;
+}
