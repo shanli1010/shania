@@ -9,6 +9,10 @@ body, html{
   color: white;
 }
 
+img {
+  border: 5px solid white;
+}
+
 .container {
   text-align: center;
 }
