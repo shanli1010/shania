@@ -1,3 +1,9 @@
+body, html{
+  background-color: #6D29A5;
+  margin: 0px;
+  padding: 0px;
+}
+
 
 .container {
   text-align: center;
