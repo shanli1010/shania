@@ -4,6 +4,16 @@
   color: white;
 }
 
+p{
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+}
+
 hr {
   height: 7px;
   border-width: 0;
