@@ -2,15 +2,16 @@ p{
 
 }
 
-.img-container {
-    text-align: center;
-    display: block;
-  }
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
 
-hr{
+hr {
   height: 7px;
-  border-width:0;
-  color = "white";
+  border-width: 0;
+  color = white;
   width: 100px;
   margin-left: 0;
 }
