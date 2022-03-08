@@ -45,7 +45,7 @@ h1{
     color : #FFFFFF
 }
 
-/* hr {
+hr {
   display: block;
   margin-before: 0.5em;
   margin-after: 0.5em;
@@ -54,7 +54,7 @@ h1{
   overflow: hidden;
   border-style: inset;
   border-width: 1px;
-} */
+}
 
 hr {
   width: 60%;
@@ -62,6 +62,19 @@ hr {
   margin-right: auto;
 }
 
+.header {
+  display: flex;
+  background-color: white;
+  width: 100px;
+  padding: 20px;
+  margin: 150px;
+  color: #FFFFFF;
+  height: 64px;
+  align-items: center;
+  justify-content: space-around;
+  border: 10px solid white;
+  font-family: 'Helvetica Neue';
+}
 
 #left{
   text-align: left;
