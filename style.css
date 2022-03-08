@@ -5,6 +5,7 @@
 }
 
 p{
+  display: flex;
   margin-left: 200px;
   margin-right: 200px;
   margin-top: 30px;
@@ -12,6 +13,8 @@ p{
   font-family: "Helvetica Neue", "Arial", sans-serif;
   font-style: italic;
   font-weight: 100;
+  font-size: 1rem;
+  align-items: center;
 }
 
 hr {
