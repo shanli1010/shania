@@ -4,9 +4,13 @@ body, html{
   padding: 0px;
 }
 
-.container {
+.header {
   text-align: center;
   color: white;
+}
+
+.container {
+  text-align: center;
 }
 
 p{
