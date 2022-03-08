@@ -11,7 +11,7 @@ hr {
   height: 7px;
   border-width: 0;
   color = white;
-  width: 100px;
+  width: 50px;
   margin-left: 0;
 }
 
@@ -27,4 +27,21 @@ h1{
     letter-spacing: 1px;
     align-items: left;
     color : #FFFFFF
+}
+
+hr {
+  display: block;
+  margin-before: 0.5em;
+  margin-after: 0.5em;
+  margin-start: auto;
+  margin-end: auto;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+}
+
+hr {
+  width: 60%;
+  margin-left: 0;
+  margin-right: auto;
 }
