@@ -1,0 +1,34 @@
+p{
+
+}
+
+h1{
+  display: flex;
+    width: 600px;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-style: italic;
+    font-weight: 100;
+    font-variant-ligatures: normal;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    align-items: left;
+    color : #FFFFFF
+}
+
+hr {
+  display: block;
+  margin-before: 0.5em;
+  margin-after: 0.5em;
+  margin-start: auto;
+  margin-end: auto;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+}
+
+hr {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
