@@ -59,6 +59,7 @@ hr {
 
 #left{
   text-align: left;
+  margin-left: 100px;
 }
 
 #center{
@@ -67,4 +68,5 @@ hr {
 
 #right{
   text-align: right;
+  margin-right: 100px;
 }
