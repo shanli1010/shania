@@ -2,11 +2,30 @@ body, html{
   background-color: #6D29A5;
   margin: 0px;
   padding: 0px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.header {
+/* .header {
   text-align: center;
   color: white;
+} */
+
+.btn{
+  display: flex;
+  margin-left: 215px;
+  margin-right: 215px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 30px;
+  align-items: center;
+  /* color: white; */
+  background-color: rgba(0,0,0,.5);
 }
 
 .whiteborder {
@@ -49,6 +68,7 @@ p{
   font-size: 3rem;
   align-items: center;
   color: white;
+  background-color: rgba(0,0,0,.5);
 }
 
 p1{
@@ -64,6 +84,7 @@ p1{
   align-items: center;
   text-align: center;
   color: white;
+    background-color: rgba(0,0,0,.5);
 }
 
 p2{
@@ -79,6 +100,7 @@ p2{
   align-items: center;
   text-align: center;
   color: white;
+    background-color: rgba(0,0,0,.5);
 }
 
 hr {
