@@ -51,6 +51,36 @@ p{
   color: white;
 }
 
+p1{
+  display: flex;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 1rem;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+p2{
+  display: flex;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 2rem;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
 hr {
   height: 7px;
   border-width: 0;
@@ -116,4 +146,24 @@ hr {
 #right{
   text-align: right;
   margin-right: 100px;
+}
+a li: hover{
+  border: 10px solid yellow;
+}
+
+
+.backbutton {
+  display: flex;
+  width: 100px;
+  padding: 3px;
+  margin: 40px;
+  color: #FFFFFF;
+  height: 64px;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+  border: 2px solid white;
+  background-color: solid white;
+  font-family: 'Helvetica Neue';
+  font-size: 1rem;
 }
